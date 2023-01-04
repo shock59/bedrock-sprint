@@ -14,11 +14,11 @@ This is a simple [AutoHotkey](https://www.autohotkey.com/ "AutoHotkey") script w
 
 ## Installation
 
-Download the BedrockSprint.zip file from the [releases](https://github.com/shock59/bedrock-sprint/releases) page. Extract it and make  the files are contained in their own folder (i.e. don't run the script in another folder such as Downloads or Desktop).
+Download the `BedrockSprint.zip` file from the [releases](https://github.com/shock59/bedrock-sprint/releases) page. Extract it and make  the files are contained in their own folder (i.e. don't run the script in another folder such as Downloads or Desktop).
 
 ## Usage & Configuration
 
-Run the `BedrockSprint.exe` file. By default, only toggle sprint is enabled. It expects your Minecraft sprint key (the key set to sprint inside of Minecraft itself) to be Alt and uses Control to toggle sprinting. You can press F8 to suspend the application so that it won't interrupt regular typing.
+Run the `BedrockSprint.exe` file. By default, only toggle sprint is enabled. It expects your Minecraft sprint key (the key set to sprint inside of Minecraft itself) to be L and uses Control to toggle sprinting. You can press F8 to suspend the application so that it won't interrupt regular typing.
 
 You can change these settings in the `sprintConfig.txt` file. The format for the file should be like this:
 
